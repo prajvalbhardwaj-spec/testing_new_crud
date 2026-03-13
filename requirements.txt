@@ -7,3 +7,6 @@ python-dotenv
 alembic
 bcrypt
 pydantic
+pydantic[email]
+python-jose
+python-multipart
