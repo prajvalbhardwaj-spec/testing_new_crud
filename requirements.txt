@@ -4,9 +4,11 @@ sqlalchemy
 sqlalchemy-utils
 psycopg2-binary
 python-dotenv
-alembic
-bcrypt
 pydantic
 pydantic[email]
+email-validator
+bcrypt
+alembic
+gunicorn
 python-jose
 python-multipart
